@@ -8,7 +8,7 @@
 // // alert("нажми");
 
 // const giveText = "Вы готовы скниться на пиво?";
-
+ 
 // let payTv = confirm(giveText);
 
 // // console.log(payTv);
